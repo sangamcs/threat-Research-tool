@@ -1,1 +1,4 @@
 intext:axis2 admin login
+allintext:username filetype:log
+intitle:"Web user login"
+intitle:"Sauter moduWeb - Login"
