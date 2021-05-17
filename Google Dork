@@ -3,3 +3,4 @@ allintext:username filetype:log
 intitle:"Web user login"
 intitle:"Sauter moduWeb - Login"
 allintext:password filetype:conf
+"responsible disclosure" intext:"you may be eligible for monetary compensation"
